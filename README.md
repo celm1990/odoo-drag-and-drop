@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 ===============
-Drag and Drop
+Odoo - Drag and Drop
 ===============
 
 With this module you can easily drag&drop multi-Files into a form-view.
