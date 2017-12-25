@@ -14,7 +14,7 @@
 
     'price': 29.99,
     'currency': 'EUR',
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'document', 'web'],
