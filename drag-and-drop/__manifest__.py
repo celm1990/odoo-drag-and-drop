@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Drag & Drop",
+    'name': "Drag & Drop Multiple Files",
 
     'summary': """
         Drag and Drop Attachments without limits. Upload Screenshots easily.
