@@ -1,4 +1,4 @@
-Odoo - Drag and Drop
+Odoo 11 - Drag and Drop
 ===============
 
 ![odoo11](http://runbot.odoo.com/runbot/badge/flat/1/11.0.svg)
