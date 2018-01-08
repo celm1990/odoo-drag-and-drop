@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Drag & Drop",
+    'name': "Drag & Drop Multiple Files",
 
     'summary': """
         Drag and Drop Attachments without limits. Upload Screenshots easily.
@@ -14,7 +14,8 @@
 
     #'price': 29.99,
     #'currency': 'EUR',
-    'license': 'OEEL-1',
+
+    'license': 'OPL-1',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'document', 'web'],
