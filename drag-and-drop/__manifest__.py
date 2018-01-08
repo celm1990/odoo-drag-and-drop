@@ -14,6 +14,7 @@
 
     #'price': 29.99,
     #'currency': 'EUR',
+
     'license': 'OPL-1',
 
     # any module necessary for this one to work correctly
