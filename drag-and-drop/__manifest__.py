@@ -16,6 +16,8 @@
     #'currency': 'EUR',
 
     'license': 'OPL-1',
+	
+	'images': ['images/main_screenshot.png'],
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'document', 'web'],
