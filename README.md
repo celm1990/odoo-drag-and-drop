@@ -1,13 +1,18 @@
 Odoo 11 - Drag and Drop
 ===============
 
-![odoo11](http://runbot.odoo.com/runbot/badge/flat/1/11.0.svg)
+![11.0 success](https://img.shields.io/badge/11.0-success-brightgreen.svg)
 
 With this module you can easily drag&drop multi-Files into a form-view.
 You can also add Screenshots with CTRL+V.
 It only works in "Read"-Mode.
 
 Also see: https://apps.odoo.com/apps/modules/11.0/drag-and-drop/
+
+Available Languages
+-----------
+![english](https://github.com/oxguy3/flags/raw/master/mini/gb.png)
+![german](https://github.com/oxguy3/flags/raw/master/mini/de.png)
 
 Credits
 =======

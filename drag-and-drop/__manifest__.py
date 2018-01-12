@@ -15,7 +15,7 @@
     #'price': 29.99,
     #'currency': 'EUR',
 
-    'license': 'OPL-1',
+    #'license': 'OPL-1',
 	
 	'images': ['images/main_screenshot.png'],
 
